@@ -1,0 +1,51 @@
+# Node.js
+node_modules/
+.env
+
+# Spring Boot
+target/
+build/
+*.log
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven
+.mvn/
+.mvn/wrapper/maven-wrapper.jar
+
+# Gradle
+.gradle/
+**/build/
+
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# VS Code
+.vscode/
+
+# Eclipse/STS
+.apt_generated/
+.classpath
+.factorypath
+.project
+.settings/
+.springBeans
+.sts4-cache/
+
+# NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# Application config
+application.properties
+application.yml
